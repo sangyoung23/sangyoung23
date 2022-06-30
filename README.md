@@ -1,10 +1,10 @@
 ### Hello 👋   
 
- - 💻   **I'm a frontend Develover**    
+ - 💻   **I'm a frontend Develove sang young**    
 
 ### Who am I ? 🤔
 
-### Hello, I am <h2>Park Sang-yong</h2>, who is aiming to become a front-end developer.<br>
+### Hi, I am Park Sang-yong, who is aiming to become a front-end developer.<br>
 ### My ultimate goal is to become a React developer.<br>
 
 <h2 align="center"> 🌈 Skill 🌈 </h2>
