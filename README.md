@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Sang%20Yong&fontSize=90)
 <h2> Hello 👋 </h2>   
 
- - 💻   **I'm a frontend Develove sang young**    
+ - 💻   **I'm a frontend Develove sang yong**    
 
 ### Who am I ? 🤔
 
