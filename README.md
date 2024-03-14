@@ -1,8 +1,13 @@
-<h2 align="center">
-프론트엔드 관련 지식 및 프로젝트 저장공간 🤓
-</h2>
+# Yong GitHub
 
-</br>
+프론트엔드 개발자 박상용입니다.
+저는 아래의 언어들로 풀스택 개발자가 목표입니다.
 
-
+- HTML
+- CSS
+- JAVASCRIPT
+- REACT
+- TYPESCRIPT
+- NODEJS
+- MYSQL
 
