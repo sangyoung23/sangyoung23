@@ -3,7 +3,7 @@
   <h1>Yong GitHub</h1>
 
 프론트엔드 개발자 박상용입니다. </br>
-저는 아래의 언어들로 풀스택 개발자가 되는 것이 저의 목표입니다 ⭐
+클라이언트단과 서버단 가리지 않고 개발하는 풀스택 개발자가 목표입니다. ⭐
 
 ![js](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whit)
